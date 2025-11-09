@@ -3,7 +3,12 @@
 ✨ Seasoned Senior Developer and backend enthusiast.
 
 My expertise lies in the JVM ecosystem, specifically designing and implementing efficient microservices with Kotlin and Java. I utilize the full potential of Quarkus for minimal memory footprint and fast startup times, alongside the versatility of Spring Boot. <p>
+
+## Community
+
 I have been leading the Java User Group Hamburg for more than a decade, organizing close to 300 events on various topics within the Java and general IT ecosystem.
+
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
